@@ -1,0 +1,2 @@
+# Datenpruefung_mit_Ausnahmebehandlung
+Python Datenprüfung mit Ausnahmebehandlung
